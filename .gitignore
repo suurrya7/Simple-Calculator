@@ -1,0 +1,16 @@
+---
+
+### 2.3 `.gitignore`
+
+```gitignore
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments (if you create later)
+venv/
+.env/
+
+# IDE settings (PyCharm etc.)
+.idea/
+.vscode/
